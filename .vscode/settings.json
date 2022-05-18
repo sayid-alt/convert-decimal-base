@@ -1,0 +1,14 @@
+{
+	"workbench.iconTheme": "vscode-icons",
+	"editor.fontFamily": "Monaco",
+	"terminal.integrated.fontFamily": "Monaco",
+	"window.zoomLevel": 0,
+	"editor.smoothScrolling": true,
+	"editor.cursorSmoothCaretAnimation": true,
+	"editor.cursorBlinking": "smooth",
+	"editor.fontSize": 14,
+	"editor.mouseWheelZoom": true,
+	"editor.fontWeight": "100",
+	"terminal.integrated.fontSize": 14,
+	"terminal.integrated.fontWeight": "100"
+}
